@@ -1,0 +1,30 @@
+{
+  "name": "e-commerce-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon index.js",
+    "test": "jest",
+    "tailwind-gen": "npx tailwindcss -i ./src/input.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marjan-MN/E-Commerce-BackEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marjan-MN/E-Commerce-BackEnd/issues"
+  },
+  "homepage": "https://github.com/Marjan-MN/E-Commerce-BackEnd#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.0",
+    "nodemon": "^3.0.1",
+    "sequelize": "^6.32.1",
+    "tailwindcss": "^3.3.3"
+  }
+}
