@@ -12,7 +12,9 @@ router.get('/', async(req, res) => {
     console.log("data", tagData)
     res.status(200).json(tagData);
   } catch (err) {
+    console.log(err)
     res.status(500).json(err);
+
   }
  });
 

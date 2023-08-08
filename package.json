@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
+    "seed": "node seeds/index.js",
     "watch": "nodemon index.js",
     "test": "jest",
     "tailwind-gen": "npx tailwindcss -i ./src/input.css"

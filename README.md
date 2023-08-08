@@ -42,10 +42,17 @@ node server.js
 This will run the server where you can find the page on localhost:3001. To end your server in your terminal type: control + c
 
 ## Mock-Up
-
+![In Insomnia, the user tests “GET tags,”.](./assets/Untitled_%20Aug%207,%202023%2011_16%20PM.gif)
 ![In Insomnia, the user tests “GET tags,”.](./assets/2.jpg)
-
 ![In Insomnia, the user tests “GET tags,”.](./assets/5.jpg)
 ![In Insomnia, the user tests “GET tags,”.](./assets/6.jpg)
 ![In Insomnia, the user tests “GET tags,”.](./assets/8.jpg)
 ![In Insomnia, the user tests “GET tags,”.](./assets/7.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/9.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/10.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/11.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/12.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/13.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/14.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/15.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/16.jpg)
