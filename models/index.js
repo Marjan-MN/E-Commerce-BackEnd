@@ -16,10 +16,12 @@ Category.hasMany(Product, {
 });
 //TODO Products belongToMany Tags (through ProductTag)
 Product.belongsTo(Tag, {
+  throw: ProductTag,
   foreignKey: 'product_id',
 });
 //TODO Tags belongToMany Products (through ProductTag)
 Tag.belongsTo(Product, {
+  throw: ProductTag,
   foreignKey: 'tag_id',
 });
 module.exports = {

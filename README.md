@@ -47,3 +47,5 @@ This will run the server where you can find the page on localhost:3001. To end y
 
 ![In Insomnia, the user tests “GET tags,”.](./assets/5.jpg)
 ![In Insomnia, the user tests “GET tags,”.](./assets/6.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/8.jpg)
+![In Insomnia, the user tests “GET tags,”.](./assets/7.jpg)
