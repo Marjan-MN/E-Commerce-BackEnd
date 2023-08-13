@@ -42,6 +42,8 @@ node server.js
 This will run the server where you can find the page on localhost:3001. To end your server in your terminal type: control + c
 
 ## Mock-Up
+[View VIDEO here!](https://drive.google.com/file/d/1NdOwowRBd31UMAfpKgWUa2EDMJ8Xk_Sh/view)
+
 ![In Insomnia, the user tests “GET tags,”.](./assets/Untitled_%20Aug%207,%202023%2011_16%20PM.gif)
 ![In Insomnia, the user tests “GET tags,”.](./assets/2.jpg)
 ![In Insomnia, the user tests “GET tags,”.](./assets/5.jpg)
